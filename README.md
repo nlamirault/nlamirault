@@ -3,7 +3,7 @@
 - 🔭 I work at [Skale-5](https://www.skale-5.com/) as a SRE/Cloud Consultant.
 - ✍️ Sometimes, I hack on some free software projects (Kubernetes echosystem, Terraform providers, HomeAutomation, ...).
 - 💬 Let's Get In Touch! I am always looking for projects and opportunities.
-- 📫 You can find me [on Twitter](https://twitter.com/nlamirault 'Nicolas on Twitter'), [GitHub](https://github.com/nlamirault 'Pascal on GitHub'), [Gitlab](https://gitlab.com/nicolas-lamirault?tab=profile 'Nicolas on Gitlab')... All of my profiles and identities including my **public key**  are **verified on [keybase](https://keybase.io/nlamirault)**.
+- 📫 You can find me [on Twitter](https://twitter.com/nlamirault 'Nicolas on Twitter'), [GitHub](https://github.com/nlamirault 'Pascal on GitHub'), [Gitlab](https://gitlab.com/nicolas-lamirault?tab=profile 'Nicolas on Gitlab')... All of my profiles and identities including my **public key**  are **verified on [Keybase](https://keybase.io/nlamirault)**.
 - ⚡ Fun fact: I'm a [Pilorari](https://en.wikipedia.org/wiki/Basque_pelota) and a free skieur
 
 <!--
