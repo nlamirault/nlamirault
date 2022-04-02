@@ -14,10 +14,10 @@
 
 name: Project / Metrics
 on:
-  # Schedule updates (each hour)
+  # 🌏 Schedule updates
   schedule:
   - cron: "0 * * * *"
-  # Lines below let you run workflow manually and on each commit (optional)
+  # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
   push:
     branches: 
