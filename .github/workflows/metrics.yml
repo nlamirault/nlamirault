@@ -16,7 +16,7 @@ name: Project / Metrics
 on:
   # 🌏 Schedule updates
   schedule:
-  - cron: "0 * * * 1"
+  - cron: "0 0 * * 1"
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
   push:
