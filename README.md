@@ -10,7 +10,8 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/nlamirault) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nicolaslamirault//) 
-[![GitHub](https://img.shields.io/badge/GitHub-fff?logo=github&logoColor=000&style=for-the-badge)](https://github.com/nlamirault#gh-dark-mode-only)
+[![GitHub](https://img.shields.io/badge/GitHub-fff?logo=github&logoColor=000&style=for-the-badge)](https://github.com/nlamirault#gh-dark-mode-only) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/nlamirault#gh-light-mode-only) 
 
 <a href="https://github.com/nlamirault">
   <img align="center" width="49%" src="./header.svg" />
