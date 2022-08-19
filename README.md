@@ -18,24 +18,29 @@
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
     <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  
+    <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
+    <a href="https://www.datadoghq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/> </a>
 </p>
 <p align="left">
     <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-    <a href="https://www.datadoghq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/> </a>
-    <a href="https://www.golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>    
-    <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-    <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
-    <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
-    <a href="https://cortexmetrics.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cncfio_cortex/cncfio_cortex-icon.svg" alt="cortex" width="40" height="40"/> </a>
     <a href="https://argoproj.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/> </a>
     <a href="https://fluxcd.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="fluxcd" width="40" height="40"/> </a>
+    <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
+    <a href="https://cortexmetrics.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cncfio_cortex/cncfio_cortex-icon.svg" alt="cortex" width="40" height="40"/> </a>
+    <a href="https://karpenter.sh/" target="_blank"> <img src="images/karpenter.png" alt="Karpenter" width="40" height="40"/> </a>
+    <a href="https://aws-controllers-k8s.github.io/" target="_blank"> <img src="images/ack.png" alt="ACK" width="40" height="40"/> </a>
+</p>
+<p align="left">
     <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
     <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
-    <a href="https://karpenter.sh/" target="_blank"> <img src="images/karpenter.png" alt="Karpenter" width="40" height="40"/> </a>
-    <a href="https://aws-controllers-k8s.github.io/" target="_blank"> <img src="images/ack.png" alt="ACK" width="40" height="40"/> </a>
+    <a href="https://www.packer.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="terraform" width="40" height="40"/> </a>    
+</p>
+<p align="left">
+    <a href="https://www.golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>    
+    <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+    <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
 </p>
 <br>
 
