@@ -35,11 +35,11 @@
     <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
     <a href="https://cortexmetrics.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cncfio_cortex/cncfio_cortex-icon.svg" alt="cortex" width="40" height="40"/> </a>
     <a href="https://thanos.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" alt="thanos" width="40" height="40"/> </a>
-    <a href="https://grafana.com/oss/mimir/" target="_blank"> <img src="https://grafana.com/static/img/logos/logo-mimir.svg" alt="mimir" width="40" height="40"/> </a>
     <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/jaeger/icon/color/jaeger-icon-color.svg" alt="jaeger" width="40" height="40"/> </a>
-    <a href="https://grafana.com/oss/tempo/" target="_blank"> <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" alt="tempo" width="40" height="40"/> </a>
-    <a href="https://grafana.com/oss/grafana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
     <a href="https://grafana.com/oss/loki" target="_blank"> <img src="https://raw.githubusercontent.com/grafana/loki/master/docs/sources/logo.png" alt="loki" width="40" height="40"/> </a>
+    <a href="https://grafana.com/oss/grafana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+    <a href="https://grafana.com/oss/tempo/" target="_blank"> <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" alt="tempo" width="40" height="40"/> </a>
+    <a href="https://grafana.com/oss/mimir/" target="_blank"> <img src="https://grafana.com/static/img/logos/logo-mimir.svg" alt="mimir" width="40" height="40"/> </a>
 </p>
 <p align="left">
     <a href="https://litmuschaos.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/litmus/icon/color/litmus-icon-color.svg" alt="litmus-chaos" width="40" height="40"/> </a>
