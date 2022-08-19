@@ -13,6 +13,25 @@
 [![GitHub](https://img.shields.io/badge/GitHub-fff?logo=github&logoColor=000&style=for-the-badge)](https://github.com/nlamirault#gh-dark-mode-only) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/nlamirault#gh-light-mode-only) 
 
+<h2>🚀 Tools</h2>
+<p align="left">
+    <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
+    <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="aws" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://github.com/" target="_blank"> <img src="images/git.png" alt="github" width="40" height="40"/> </a>
+    <a href="https://www.datadoghq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+    <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+    <a href="https://prometheus.io/" target="_blank"> <img src="images/prometheus.png" alt="Prometheus" width="40" height="40"/> </a>
+    <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"> <img src="images/argocd.png" alt="argocd" width="40" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="images/linux.png" alt="linux" width="40" height="40"/> </a>
+    <a href="https://www.terraform.io/" target="_blank"> <img src="images/terraform.png" alt="Terraform" width="40" height="40"/> </a>
+    <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
+    <a href="https://karpenter.sh/" target="_blank"> <img src="images/karpenter.png" alt="Karpenter" width="40" height="40"/> </a>
+    <a href="https://aws-controllers-k8s.github.io/" target="_blank"> <img src="images/ack.png" alt="ACK" width="40" height="40"/> </a>
+</p>
+<br>
+
 <a href="https://github.com/nlamirault">
   <img align="center" width="49%" src="./header.svg" />
 </a>
