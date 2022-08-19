@@ -18,25 +18,27 @@
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
     <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  
+    <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-    <a href="https://www.datadoghq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/> </a>
 </p>
 <p align="left">
-    <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
     <a href="https://argoproj.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/> </a>
     <a href="https://fluxcd.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="fluxcd" width="40" height="40"/> </a>
     <a href="https://opengitops.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opengitops/icon/color/opengitops-icon-color.svg" alt="opengitops" width="40" height="40"/> </a>
     <a href="https://keptn.sh/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/keptn/icon/color/keptn-icon-color.svg" alt="keptn" width="40" height="40"/> </a>
+</p>
+<p align="left">
     <a href="https://opentelemetry.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="opentelemetry" width="40" height="40"/> </a>
     <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
     <a href="https://cortexmetrics.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cncfio_cortex/cncfio_cortex-icon.svg" alt="cortex" width="40" height="40"/> </a>
     <a href="https://thanos.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" alt="thanos" width="40" height="40"/> </a>
     <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/jaeger/icon/color/jaeger-icon-color.svg" alt="jaeger" width="40" height="40"/> </a>
     <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-    <a href="https://keda.sh" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/keda/icon/color/keda-icon-color.svg" alt="keda" width="40" height="40"/> </a>
+</p>
+<p align="left">
     <a href="https://litmuschaos.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/litmus/icon/color/litmus-icon-color.svg" alt="litmus-chaos" width="40" height="40"/> </a>
     <a href="https://chaos-mesh.org/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/chaosmesh/icon/color/chaosmesh-icon-color.svg" alt="chaos-mesh" width="40" height="40"/> </a>
+    <a href="https://keda.sh" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/keda/icon/color/keda-icon-color.svg" alt="keda" width="40" height="40"/> </a>
     <a href="https://crossplane.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/crossplane/icon/color/crossplane-icon-color.svg" alt="crossplane" width="40" height="40"/> </a>
     <a href="https://openservicemesh.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/openservicemesh/icon/color/openservicemesh-icon-color.svg" alt="osm" width="40" height="40"/> </a>
     <a href="https://kyverno.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="40" height="40"/> </a>
