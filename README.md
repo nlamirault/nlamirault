@@ -41,12 +41,12 @@
     <a href="https://grafana.com/oss/grafana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
     <a href="https://grafana.com/oss/tempo/" target="_blank"> <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" alt="tempo" width="40" height="40"/> </a>
     <a href="https://grafana.com/oss/mimir/" target="_blank"> <img src="https://grafana.com/static/img/logos/logo-mimir.svg" alt="mimir" width="40" height="40"/> </a>
+    <a href="https://grafana.com/oss/agent/" target="_blank"> <img src="images/grafana-agent.svg" alt="mimir" width="40" height="40"/> </a>
 </p>
 <p align="left">
     <a href="https://litmuschaos.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/litmus/icon/color/litmus-icon-color.svg" alt="litmus-chaos" width="40" height="40"/> </a>
     <a href="https://chaos-mesh.org/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/chaosmesh/icon/color/chaosmesh-icon-color.svg" alt="chaos-mesh" width="40" height="40"/> </a>
     <a href="https://keda.sh" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/keda/icon/color/keda-icon-color.svg" alt="keda" width="40" height="40"/> </a>
-    <a href="https://openservicemesh.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/openservicemesh/icon/color/openservicemesh-icon-color.svg" alt="osm" width="40" height="40"/> </a>
     <a href="https://kyverno.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="40" height="40"/> </a>
     <a href="https://karpenter.sh/" target="_blank"> <img src="images/karpenter.png" alt="Karpenter" width="40" height="40"/> </a>
 </p>
