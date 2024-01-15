@@ -44,11 +44,15 @@
     <a href="https://grafana.com/oss/agent/" target="_blank"> <img src="images/grafana-agent.svg" alt="mimir" width="40" height="40"/> </a>
 </p>
 <p align="left">
-    <a href="https://litmuschaos.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/litmus/icon/color/litmus-icon-color.svg" alt="litmus-chaos" width="40" height="40"/> </a>
-    <a href="https://chaos-mesh.org/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/chaosmesh/icon/color/chaosmesh-icon-color.svg" alt="chaos-mesh" width="40" height="40"/> </a>
+    <a href="https://www.vaultproject.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/> </a>
+    <a href="https://falco.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/falco/falco-icon.svg" alt="falco" width="40" height="40"/> </a>
+    <a href="https://trivy.dev/" target="_blank"> <img src="https://desktop.docker.com/extensions/aquasec_trivy-docker-extension/raw_githubusercontent_com/aquasecurity/trivy-docker-extension/main/trivy.svg" alt="trivy" width="40" height="40"/> </a>
+    <a href="https://tetragon.cilium.io/" target="_blank"> <img src="https://isovalent.com/static/aecb17fbc1c31ca8eedeef273c283e94/b42f4/illustration.png" alt="tetragon" width="40" height="40"/> </a>
     <a href="https://keda.sh" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/keda/icon/color/keda-icon-color.svg" alt="keda" width="40" height="40"/> </a>
     <a href="https://kyverno.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="40" height="40"/> </a>
     <a href="https://karpenter.sh/" target="_blank"> <img src="images/karpenter.png" alt="Karpenter" width="40" height="40"/> </a>
+    <a href="https://litmuschaos.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/litmus/icon/color/litmus-icon-color.svg" alt="litmus-chaos" width="40" height="40"/> </a>
+    <a href="https://chaos-mesh.org/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/chaosmesh/icon/color/chaosmesh-icon-color.svg" alt="chaos-mesh" width="40" height="40"/> </a>
 </p>
 <p align="left">
     <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
