@@ -27,16 +27,23 @@
 <h3>☸️ Kubernetes</h3>
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)](https://kubernetes.io)
+[![KEDA](https://img.shields.io/badge/KEDA-006BFF?logoColor=fff&style=for-the-badge)](https://keda.sh)
+[![Karpenter](https://img.shields.io/badge/Karpenter-FF9900?logoColor=fff&style=for-the-badge)](https://karpenter.sh/)
+
+<h3>🔄 GitOps</h3>
+
 [![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=fff&style=for-the-badge)](https://argoproj.github.io/)
 [![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?logoColor=fff&style=for-the-badge)](https://fluxcd.io/)
 [![OpenGitOps](https://img.shields.io/badge/OpenGitOps-3D9970?logoColor=fff&style=for-the-badge)](https://opengitops.dev/)
-[![Keptn](https://img.shields.io/badge/Keptn-006BFF?logoColor=fff&style=for-the-badge)](https://keptn.sh/)
-[![OpenSLO](https://img.shields.io/badge/OpenSLO-FF4949?logoColor=fff&style=for-the-badge)](https://openslo.com/)
-[![KEDA](https://img.shields.io/badge/KEDA-006BFF?logoColor=fff&style=for-the-badge)](https://keda.sh)
-[![Karpenter](https://img.shields.io/badge/Karpenter-FF9900?logoColor=fff&style=for-the-badge)](https://karpenter.sh/)
+
+<h3>🏗️ Platform Engineering</h3>
+
 [![Crossplane](https://img.shields.io/badge/Crossplane-48D597?logoColor=fff&style=for-the-badge)](https://crossplane.io/)
 [![ACK](https://img.shields.io/badge/ACK-FF9900?logo=amazonaws&logoColor=fff&style=for-the-badge)](https://aws-controllers-k8s.github.io/)
-[![Kyverno](https://img.shields.io/badge/Kyverno-4F35C2?logoColor=fff&style=for-the-badge)](https://kyverno.io/)
+[![OpenSLO](https://img.shields.io/badge/OpenSLO-FF4949?logoColor=fff&style=for-the-badge)](https://openslo.com/)
+
+<h3>💥 Chaos Engineering</h3>
+
 [![Litmus Chaos](https://img.shields.io/badge/Litmus_Chaos-FF4949?logoColor=fff&style=for-the-badge)](https://litmuschaos.io/)
 [![Chaos Mesh](https://img.shields.io/badge/Chaos_Mesh-00B8A9?logoColor=fff&style=for-the-badge)](https://chaos-mesh.org/)
 
@@ -48,9 +55,7 @@
 [![Loki](https://img.shields.io/badge/Loki-F46800?logoColor=fff&style=for-the-badge)](https://grafana.com/oss/loki)
 [![Tempo](https://img.shields.io/badge/Tempo-F46800?logoColor=fff&style=for-the-badge)](https://grafana.com/oss/tempo/)
 [![Mimir](https://img.shields.io/badge/Mimir-F46800?logoColor=fff&style=for-the-badge)](https://grafana.com/oss/mimir/)
-[![Grafana Agent](https://img.shields.io/badge/Grafana_Agent-F46800?logo=grafana&logoColor=fff&style=for-the-badge)](https://grafana.com/oss/agent/)
-[![Cortex](https://img.shields.io/badge/Cortex-764ABC?logoColor=fff&style=for-the-badge)](https://cortexmetrics.io/)
-[![Thanos](https://img.shields.io/badge/Thanos-6D41FF?logoColor=fff&style=for-the-badge)](https://thanos.io/)
+[![Alloy](https://img.shields.io/badge/Alloy-F46800?logo=grafana&logoColor=fff&style=for-the-badge)](https://grafana.com/oss/alloy/)
 [![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?logoColor=fff&style=for-the-badge)](https://www.jaegertracing.io/)
 
 <h3>🔒 Security</h3>
@@ -71,6 +76,12 @@
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)](https://www.golang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)](https://www.rust-lang.org/)
+
+<h3>🤖 AI</h3>
+
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=fff&style=for-the-badge)](https://claude.ai)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=for-the-badge)](https://gemini.google.com)
+[![Ollama](https://img.shields.io/badge/Ollama-000?logoColor=fff&style=for-the-badge)](https://ollama.com)
 <br>
 
 
