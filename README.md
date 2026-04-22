@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I work at [Swan](https://www.swan.io/) as a Senior Devops.
+- 🔭 I work at [Swan](https://www.swan.io/) as a Staff Site Reliability Engineer.
 - ✍️ Sometimes, I hack on some free software projects (Kubernetes ecosystem, Terraform providers, HomeAutomation, ...).
 - 💬 Let's Get In Touch! I am always looking for projects and opportunities.
 - 📫 You can find me on [Twitter](https://twitter.com/nlamirault 'Nicolas on Twitter'), [GitHub](https://github.com/nlamirault 'nlamirault on GitHub')... All of my profiles and identities including my **public key**  are **verified on [Keybase](https://keybase.io/nlamirault)**.
