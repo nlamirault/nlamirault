@@ -16,69 +16,61 @@
 <h2>🚀 Tools</h2>
 
 <h3>☁️ Cloud</h3>
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-    <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-    <a href="https://www.alibabacloud.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-icon.svg" alt="alibaba cloud" width="40" height="40"/> </a>
-    <a href="https://www.scaleway.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/scaleway/scaleway-icon.svg" alt="scaleway" width="40" height="40"/> </a>
-    <a href="https://www.exoscale.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/exoscale/exoscale-icon.svg" alt="exoscale" width="40" height="40"/> </a>
-    <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-</p>
 
-<h3>🔄 GitOps</h3>
-<p align="left">
-    <a href="https://argoproj.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/> </a>
-    <a href="https://fluxcd.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="fluxcd" width="40" height="40"/> </a>
-    <a href="https://opengitops.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opengitops/icon/color/opengitops-icon-color.svg" alt="opengitops" width="40" height="40"/> </a>
-    <a href="https://keptn.sh/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/keptn/icon/color/keptn-icon-color.svg" alt="keptn" width="40" height="40"/> </a>
-    <a href="https://openslo.com//" target="_blank"> <img src="https://raw.githubusercontent.com/OpenSLO/openslo.github.io/main/static/images/logo2.svg" alt="openslo" width="40" height="40"/> </a>
-</p>
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff&style=for-the-badge)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)](https://cloud.google.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)](https://azure.microsoft.com/)
+[![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?logo=alibabacloud&logoColor=fff&style=for-the-badge)](https://www.alibabacloud.com/)
+[![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?logo=scaleway&logoColor=fff&style=for-the-badge)](https://www.scaleway.com/)
+[![Exoscale](https://img.shields.io/badge/Exoscale-DA291C?logoColor=fff&style=for-the-badge)](https://www.exoscale.com/)
+
+<h3>☸️ Kubernetes</h3>
+
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)](https://kubernetes.io)
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=fff&style=for-the-badge)](https://argoproj.github.io/)
+[![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?logoColor=fff&style=for-the-badge)](https://fluxcd.io/)
+[![OpenGitOps](https://img.shields.io/badge/OpenGitOps-3D9970?logoColor=fff&style=for-the-badge)](https://opengitops.dev/)
+[![Keptn](https://img.shields.io/badge/Keptn-006BFF?logoColor=fff&style=for-the-badge)](https://keptn.sh/)
+[![OpenSLO](https://img.shields.io/badge/OpenSLO-FF4949?logoColor=fff&style=for-the-badge)](https://openslo.com/)
+[![KEDA](https://img.shields.io/badge/KEDA-006BFF?logoColor=fff&style=for-the-badge)](https://keda.sh)
+[![Karpenter](https://img.shields.io/badge/Karpenter-FF9900?logoColor=fff&style=for-the-badge)](https://karpenter.sh/)
+[![Crossplane](https://img.shields.io/badge/Crossplane-48D597?logoColor=fff&style=for-the-badge)](https://crossplane.io/)
+[![ACK](https://img.shields.io/badge/ACK-FF9900?logo=amazonaws&logoColor=fff&style=for-the-badge)](https://aws-controllers-k8s.github.io/)
+[![Kyverno](https://img.shields.io/badge/Kyverno-4F35C2?logoColor=fff&style=for-the-badge)](https://kyverno.io/)
+[![Litmus Chaos](https://img.shields.io/badge/Litmus_Chaos-FF4949?logoColor=fff&style=for-the-badge)](https://litmuschaos.io/)
+[![Chaos Mesh](https://img.shields.io/badge/Chaos_Mesh-00B8A9?logoColor=fff&style=for-the-badge)](https://chaos-mesh.org/)
 
 <h3>📊 Observability</h3>
-<p align="left">
-    <a href="https://opentelemetry.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="opentelemetry" width="40" height="40"/> </a>
-    <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
-    <a href="https://cortexmetrics.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cncfio_cortex/cncfio_cortex-icon.svg" alt="cortex" width="40" height="40"/> </a>
-    <a href="https://thanos.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" alt="thanos" width="40" height="40"/> </a>
-    <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/jaeger/icon/color/jaeger-icon-color.svg" alt="jaeger" width="40" height="40"/> </a>
-    <a href="https://grafana.com/oss/loki" target="_blank"> <img src="https://raw.githubusercontent.com/grafana/loki/master/docs/sources/logo.png" alt="loki" width="40" height="40"/> </a>
-    <a href="https://grafana.com/oss/grafana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
-    <a href="https://grafana.com/oss/tempo/" target="_blank"> <img src="https://grafana.com/static/assets/img/logos/grafana-tempo.svg" alt="tempo" width="40" height="40"/> </a>
-    <a href="https://grafana.com/oss/mimir/" target="_blank"> <img src="https://grafana.com/static/img/logos/logo-mimir.svg" alt="mimir" width="40" height="40"/> </a>
-    <a href="https://grafana.com/oss/agent/" target="_blank"> <img src="images/grafana-agent.svg" alt="grafana agent" width="40" height="40"/> </a>
-</p>
+
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff&style=for-the-badge)](https://opentelemetry.io/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=for-the-badge)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=for-the-badge)](https://grafana.com/oss/grafana)
+[![Loki](https://img.shields.io/badge/Loki-F46800?logoColor=fff&style=for-the-badge)](https://grafana.com/oss/loki)
+[![Tempo](https://img.shields.io/badge/Tempo-F46800?logoColor=fff&style=for-the-badge)](https://grafana.com/oss/tempo/)
+[![Mimir](https://img.shields.io/badge/Mimir-F46800?logoColor=fff&style=for-the-badge)](https://grafana.com/oss/mimir/)
+[![Grafana Agent](https://img.shields.io/badge/Grafana_Agent-F46800?logo=grafana&logoColor=fff&style=for-the-badge)](https://grafana.com/oss/agent/)
+[![Cortex](https://img.shields.io/badge/Cortex-764ABC?logoColor=fff&style=for-the-badge)](https://cortexmetrics.io/)
+[![Thanos](https://img.shields.io/badge/Thanos-6D41FF?logoColor=fff&style=for-the-badge)](https://thanos.io/)
+[![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?logoColor=fff&style=for-the-badge)](https://www.jaegertracing.io/)
 
 <h3>🔒 Security</h3>
-<p align="left">
-    <a href="https://www.vaultproject.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/> </a>
-    <a href="https://falco.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/falco/falco-icon.svg" alt="falco" width="40" height="40"/> </a>
-    <a href="https://trivy.dev/" target="_blank"> <img src="https://desktop.docker.com/extensions/aquasec_trivy-docker-extension/raw_githubusercontent_com/aquasecurity/trivy-docker-extension/main/trivy.svg" alt="trivy" width="40" height="40"/> </a>
-    <a href="https://tetragon.cilium.io/" target="_blank"> <img src="https://isovalent.com/static/aecb17fbc1c31ca8eedeef273c283e94/b42f4/illustration.png" alt="tetragon" width="40" height="40"/> </a>
-    <a href="https://keda.sh" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/keda/icon/color/keda-icon-color.svg" alt="keda" width="40" height="40"/> </a>
-    <a href="https://kyverno.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kyverno/icon/color/kyverno-icon-color.svg" alt="kyverno" width="40" height="40"/> </a>
-    <a href="https://karpenter.sh/" target="_blank"> <img src="images/karpenter.png" alt="karpenter" width="40" height="40"/> </a>
-    <a href="https://litmuschaos.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/litmus/icon/color/litmus-icon-color.svg" alt="litmus chaos" width="40" height="40"/> </a>
-    <a href="https://chaos-mesh.org/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/chaosmesh/icon/color/chaosmesh-icon-color.svg" alt="chaos mesh" width="40" height="40"/> </a>
-</p>
+
+[![Vault](https://img.shields.io/badge/Vault-000?logo=vault&logoColor=fff&style=for-the-badge)](https://www.vaultproject.io/)
+[![Falco](https://img.shields.io/badge/Falco-00AAE4?logoColor=fff&style=for-the-badge)](https://falco.org/)
+[![Trivy](https://img.shields.io/badge/Trivy-1904DA?logoColor=fff&style=for-the-badge)](https://trivy.dev/)
+[![Tetragon](https://img.shields.io/badge/Tetragon-F8C517?logoColor=000&style=for-the-badge)](https://tetragon.cilium.io/)
 
 <h3>🏗️ IaC</h3>
-<p align="left">
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-    <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
-    <a href="https://www.packer.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="40" height="40"/> </a>
-    <a href="https://crossplane.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/crossplane/icon/color/crossplane-icon-color.svg" alt="crossplane" width="40" height="40"/> </a>
-    <a href="https://aws-controllers-k8s.github.io/" target="_blank"> <img src="images/ack.png" alt="ACK" width="40" height="40"/> </a>
-</p>
+
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=for-the-badge)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=fff&style=for-the-badge)](https://www.ansible.com/)
+[![Packer](https://img.shields.io/badge/Packer-02A8EF?logo=packer&logoColor=fff&style=for-the-badge)](https://www.packer.io/)
 
 <h3>💻 Languages</h3>
-<p align="left">
-    <a href="https://www.golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
-</p>
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)](https://www.golang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)](https://www.rust-lang.org/)
 <br>
 
 
